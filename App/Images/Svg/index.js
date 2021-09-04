@@ -1,0 +1,7 @@
+export IconPizza from './icon-pizza.svg'
+export IconSignal from './icon-signal.svg'
+export IconTransport from './icon-transport.svg'
+export IconPizzaFill from './icon-pizza-fill.svg'
+export IconSignalFill from './icon-signal-fill.svg'
+export IconTransportFill from './icon-transport-fill.svg'
+export IconAdd from './icon-add.svg'
